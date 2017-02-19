@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 6 time difference\cs 161 assignment 6 time difference\main.cpp(22): error C4700: uninitialized local variable 'startMinutes' used
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 6 time difference\cs 161 assignment 6 time difference\main.cpp(22): error C4700: uninitialized local variable 'startHours' used
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 6 time difference\cs 161 assignment 6 time difference\main.cpp(26): error C4700: uninitialized local variable 'endMinutes' used
+c:\users\stephanie\documents\visual studio 2015\projects\cs 161 assignment 6 time difference\cs 161 assignment 6 time difference\main.cpp(26): error C4700: uninitialized local variable 'endHours' used
